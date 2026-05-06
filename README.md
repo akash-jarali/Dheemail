@@ -14,38 +14,6 @@ Built using the **MVT (Model-View-Template)** architecture, this project focuses
 * 💾 SQLite Database
 * 🎯 Clean and modular Django structure
 
----
-## 📸 Screenshots
-
-### 🔐 Login Page
-
-![Login Page](
-)
-
----
-
-### 📝 Create Account Page
-
-![Create Account](screenshots/register.png)
-
----
-
-### ⚙️ Manage Account Page
-
-![Manage Account](screensho
-ts/manage_account.png)
-
----
-
-### 📤 Mail Sending Page
-
-![Send Mail](screenshots/send_mail.png)
-
----
-
-### 📥 Mail Receiving Page (Inbox)
-
-![Inbox](screenshots/inbox.png)
 
 
 ## 🏗 Tech Stack
