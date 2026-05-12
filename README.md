@@ -166,26 +166,15 @@ db.sqlite3
 
 ---
 
-## 🤝 Contribution
+## Screenshots
+<img width="1882" height="894" alt="log in" src="https://github.com/user-attachments/assets/dcac9a24-2bc7-410e-890d-a973bfc227c9" />
+<img width="1915" height="903" alt="dashboard" src="https://github.com/user-attachments/assets/e3f38057-69e5-4dd1-94a3-076aa156dfd3" />
+<img width="1893" height="896" alt="compose" src="https://github.com/user-attachments/assets/95936d7b-e432-4378-8d32-993bc4e8a49d" />
 
-1. Fork the repository
-2. Create a new branch
-3. Make changes
-4. Commit and push
+
 
 ```
-git checkout -b feature-name
-git commit -m "Added feature"
-git push origin feature-name
-```
 
----
-
-## 📄 License
-
-This project is for educational purposes.
-
----
 
 ## 🙌 Acknowledgements
 
