@@ -170,6 +170,9 @@ db.sqlite3
 <img width="1882" height="894" alt="log in" src="https://github.com/user-attachments/assets/dcac9a24-2bc7-410e-890d-a973bfc227c9" />
 <img width="1915" height="903" alt="dashboard" src="https://github.com/user-attachments/assets/e3f38057-69e5-4dd1-94a3-076aa156dfd3" />
 <img width="1893" height="896" alt="compose" src="https://github.com/user-attachments/assets/95936d7b-e432-4378-8d32-993bc4e8a49d" />
+<img width="1911" height="886" alt="drafts" src="https://github.com/user-attachments/assets/9ae4d87a-de5b-4ca1-9a16-0c7ef8dd481d" />
+<img width="1897" height="858" alt="manageacc" src="https://github.com/user-attachments/assets/013576dd-ff4b-47e7-9424-d9e70f561920" />
+<img width="1887" height="354" alt="2" src="https://github.com/user-attachments/assets/d096e147-e5b2-43d8-9270-b9c711463821" />
 
 
 
